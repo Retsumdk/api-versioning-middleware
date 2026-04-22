@@ -1,7 +1,7 @@
 #!/usr/bin/env bun
 /**
  * api-versioning-middleware - Semantic API versioning with deprecation warnings
- * Built with Zo Computer by The BookMaster
+ * Built by Retsumdk
  */
 
 import { Command } from "commander";
